@@ -1,0 +1,6 @@
+/wp-admin/
+wp-config.php
+wp-content/cache/
+wp-content/sessions/
+/wp-content/debug.log
+wp-content/themes/*/cache/
